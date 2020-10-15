@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">ContactManager</string>
     <string name="db_drop">DROP TABLE IF EXISTS</string>
+    <string name="name">Name goes here</string>
+    <string name="contact_img_description">Contact Picture</string>
+    <string name="sample_name_text">Sample Name</string>
+    <string name="sample_phone_text">Sample Phone</string>
 </resources>
